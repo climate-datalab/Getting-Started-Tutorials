@@ -1,5 +1,5 @@
 # Climate Data Lab Tutorials
-Whats up everyone,
+Whats up everyone
 
 Thank you for checking out the climate data lab git hub!
 
