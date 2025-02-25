@@ -1,6 +1,4 @@
 # Climate Data Lab Tutorials
-Whats up everyone
-
 Thank you for checking out the climate data lab git hub!
 
 This repository contains the typed out tutorials listed (or soon to be listed) on the [climate data lab website](https://climate-datalab.org/). 
