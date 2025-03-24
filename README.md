@@ -1,14 +1,13 @@
-# Climate Data Lab Tutorials
-Thank you for checking out the climate data lab git hub!
+# Climate Data Lab: Getting Started
+Thank you for checking out the Climate DataLab GitHub! 
 
-This repository contains tutorials listed (or soon to be listed) on the climate data lab website.
+This repository contains tutorials that will guide you through setting up the tools you'll need to work with climate model output:
+- Git/GitHub
+- Python
+- Jupyter/Jupyter Lab
 
-Tutorials at the top of this repository are for just starting out how to climate model and as it goes down the list it will get more advanced.
-
-If you have code of your own you would love to add to this repository please email me at fhozven@gmail.com
+If you have code of your own you would love to add to this repository please email us at sstevenson@ucsb.edu or fhozven@gmail.com.
 
 Hope this helps and again visit [climate data lab](https://climate-datalab.org/) for more information and video walkthroughs.
 
-Best,
 
-Fletcher Hozven 
