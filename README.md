@@ -8,6 +8,6 @@ This repository contains tutorials that will guide you through setting up the to
 
 If you have code of your own you would love to add to this repository please email us at sstevenson@ucsb.edu or fhozven@gmail.com.
 
-Hope this helps and again visit [climate data lab](https://climate-datalab.org/) for more information and video walkthroughs.
+Hope this helps and please also be sure to visit the main [Climate DataLab website](https://climate-datalab.org/) for more information and video walkthroughs.
 
 
